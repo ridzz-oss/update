@@ -468,12 +468,12 @@ bot.onText(/\/start|\/p|start|menu|rey/, async (msg) => {
   const statussender = cekWaStatus(activeSock);
   const dragon = await bot.sendPhoto(chatId, randomImage, {
     caption: `
-<blockquote>𝙋𝙀𝙍𝙁𝙀𝘾𝙏 - 𝙋𝙍𝙄𝙑𝘼𝙏𝙀 𝘼𝙆𝙎𝙀𝙎
+<blockquote>nsjsjsghs - 𝙋𝙍𝙄𝙑𝘼𝙏𝙀 𝘼𝙆𝙎𝙀𝙎
 Script Bot WhatsApp — Gunakan secara bijak dan bertanggung jawab.
 
 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙎𝙄 - 𝙎𝘾𝙍𝙄𝙋𝙏
 𝚂𝙲𝚁𝙸𝙿𝚃 𝙽𝙰𝙼𝙴 : CONTOH
-𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : 1.0
+𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : 1.0shwiiw
 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : @Jerroffc
 𝙰𝙺𝚂𝙴𝚂 𝙼𝙾𝙳𝙴 : PRIVATE AKSES
 
@@ -627,7 +627,7 @@ Gunakan script secara bijak dan bertanggung jawab.
 
 ┏━━〔 <b>ABOUT THE PROJECT</b> 〕
 ┃ 𖤓 <b>Project</b> : PERFECT
-┃ 𖤓 <b>Category</b> : WhatsApp bug bot 
+┃ 𖤓 <b>Category</b> : WhatsApp bwywywyuwug bot 
 ┃ 𖤓 <b>Developer</b> : @Jerroffc ＆ <a href="tg://user?id=6213349853">@ridzz</a>
 ┗━━━━━━━━━━━━━━━━━━
 
@@ -639,7 +639,7 @@ Gunakan script secara bijak dan bertanggung jawab.
 
     if (query.data === "tools") {
       caption = `
-<blockquote>✦ 𝙋𝙀𝙍𝙁𝙀𝘾𝙏 — 𝙏𝙊𝙊𝙇𝙎 & 𝙐𝙏𝙄𝙇𝙄𝙏𝙄𝙀𝙎
+<blockquote>✦ 𝙋𝙀𝙍𝙁𝙀𝘾𝙏 —euuwywye 𝙏𝙊𝙊𝙇𝙎 & 𝙐𝙏𝙄𝙇𝙄𝙏𝙄𝙀𝙎
 <i>Kumpulan fitur dan utilitas untuk kebutuhanmu.</i>
 
 ┏━━〔 <b>TOOLS MENU</b> 〕
