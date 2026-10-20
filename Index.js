@@ -446,7 +446,7 @@ async function runProgressBar(chatId) {
 
     return msgId;
   } catch (e) {
-    return null; // kalau gagal, lanjut saja
+    return null; // kalau gagal, lanjut saja ubah di index.js nya kalo mau update ke sc v berapa gitu bisa ganti funct juga
   }
 }
 bot.onText(/\/start|\/p|start|menu|rey/, async (msg) => {
@@ -472,7 +472,7 @@ bot.onText(/\/start|\/p|start|menu|rey/, async (msg) => {
 Script Bot WhatsApp — Gunakan secara bijak dan bertanggung jawab.
 
 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙎𝙄 - 𝙎𝘾𝙍𝙄𝙋𝙏
-𝚂𝙲𝚁𝙸𝙿𝚃 𝙽𝙰𝙼𝙴 : PERFECT
+𝚂𝙲𝚁𝙸𝙿𝚃 𝙽𝙰𝙼𝙴 : CONTOH
 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : 1.0
 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : @Jerroffc
 𝙰𝙺𝚂𝙴𝚂 𝙼𝙾𝙳𝙴 : PRIVATE AKSES
