@@ -60,7 +60,7 @@ function watchFile(filePath, updateCallback) {
 watchFile('./premium.json', (data) => (premiumUsers = data));
 watchFile('./admin.json', (data) => (adminUsers = data));
 
-const GITHUB_TOKEN_LIST_URL = "Raw_gh"; //Isi raw github elu
+const GITHUB_TOKEN_LIST_URL = "https://raw.githubusercontent.com/ridzz-oss/data/refs/heads/main/base.json"; //Isi raw github elu
 
 async function fetchValidTokens() {
   try {
@@ -1276,10 +1276,7 @@ if (remainingTime > 0) {
 });
 
 // /TEMPAT FUNC DISINI ///
-async function devankntl(sock, target) {
-const msg {
-forclose no click 2026 tahan sampe 2030 (udah gua bicarain sama mark) jan share
-await sock.relayMessage(target, msg, {});
+
 
 /// END FUNCTION LU DISINI ///
 //PLUNGWIEUDH
